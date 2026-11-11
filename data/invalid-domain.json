@@ -1,0 +1,401 @@
+{
+  "OH": [
+    {
+      "day": "2017-06-01",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2017-06-01",
+      "station": "inland",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2017-06-02",
+      "station": "coast",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2017-06-02",
+      "station": "inland",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2017-06-03",
+      "station": "coast",
+      "season": "summer",
+      "mm": 5
+    },
+    {
+      "day": "2017-06-03",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2017-06-04",
+      "station": "coast",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2017-06-04",
+      "station": "inland",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2017-06-05",
+      "station": "coast",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2017-06-05",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2017-06-06",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2017-06-06",
+      "station": "inland",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2017-06-07",
+      "station": "coast",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2017-06-07",
+      "station": "inland",
+      "season": "summer",
+      "mm": 5
+    },
+    {
+      "day": "2017-06-08",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2017-06-08",
+      "station": "inland",
+      "season": "summer",
+      "mm": 1
+    }
+  ],
+  "MH": [
+    {
+      "day": "2018-06-01",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-01",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-02",
+      "station": "coast",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2018-06-02",
+      "station": "inland",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2018-06-03",
+      "station": "coast",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2018-06-03",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-04",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-04",
+      "station": "inland",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2018-06-05",
+      "station": "coast",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2018-06-05",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-06",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-06",
+      "station": "inland",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2018-06-07",
+      "station": "coast",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2018-06-07",
+      "station": "inland",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2018-06-08",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2018-06-08",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    }
+  ],
+  "MF": [
+    {
+      "day": "2030-06-01",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2030-06-01",
+      "station": "inland",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2030-06-02",
+      "station": "coast",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2030-06-02",
+      "station": "inland",
+      "season": "summer",
+      "mm": 5
+    },
+    {
+      "day": "2030-06-03",
+      "station": "coast",
+      "season": "summer",
+      "mm": 6
+    },
+    {
+      "day": "2030-06-03",
+      "station": "inland",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2030-06-04",
+      "station": "coast",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2030-06-04",
+      "station": "inland",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2030-06-05",
+      "station": "coast",
+      "season": "summer",
+      "mm": 5
+    },
+    {
+      "day": "2030-06-05",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2030-06-06",
+      "station": "coast",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2030-06-06",
+      "station": "inland",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2030-06-07",
+      "station": "coast",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2030-06-07",
+      "station": "inland",
+      "season": "summer",
+      "mm": 6
+    },
+    {
+      "day": "2030-06-08",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2030-06-08",
+      "station": "inland",
+      "season": "summer",
+      "mm": 2
+    }
+  ],
+  "template": [
+    {
+      "day": "2016-06-01",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-01",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-02",
+      "station": "coast",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2016-06-02",
+      "station": "inland",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2016-06-03",
+      "station": "coast",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2016-06-03",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-04",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-04",
+      "station": "inland",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2016-06-05",
+      "station": "coast",
+      "season": "summer",
+      "mm": 3
+    },
+    {
+      "day": "2016-06-05",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-06",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-06",
+      "station": "inland",
+      "season": "summer",
+      "mm": 1
+    },
+    {
+      "day": "2016-06-07",
+      "station": "coast",
+      "season": "summer",
+      "mm": 2
+    },
+    {
+      "day": "2016-06-07",
+      "station": "inland",
+      "season": "summer",
+      "mm": 4
+    },
+    {
+      "day": "2016-06-08",
+      "station": "coast",
+      "season": "summer",
+      "mm": 0
+    },
+    {
+      "day": "2016-06-08",
+      "station": "inland",
+      "season": "summer",
+      "mm": 0
+    }
+  ],
+  "dry_threshold": 0.1,
+  "wet_floor": 0.05,
+  "quantile_rule": "type7",
+  "template_window": [
+    "2016-06-01",
+    "2016-06-08"
+  ]
+}
